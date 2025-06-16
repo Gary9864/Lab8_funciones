@@ -26,7 +26,7 @@ int main(){
     {
         cout << "Es un numero perfecto"<< endl;// si se cumple que es perfecto
     }else{
-        cout << "No es numero perfecto"<< endl;// no se cumple
+        cout << "No es numero perfecto"<< endl;// no se cumple..
     }
     
     return 0;
